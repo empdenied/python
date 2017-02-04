@@ -1,0 +1,5 @@
+0. Open Terminal. 
+1. Navigate to this directory. ( cd blah/python )
+2. Run AlineJSON.py with the argument placate.json ( python AlineJSON.py placate.json ) 
+3. Follow the on-screen instructions to add items to the list. 
+4. After exiting, open placate.json to see the full list. 
